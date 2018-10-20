@@ -1,5 +1,5 @@
 _repo: The-Greylock-A-Fairy-Tale_5590
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'German fiction -- Translations into English'
 - !lcsh 'Fairy tales'
 - !lcc 'PT'
+- GITenberg
 title: 'The Greylock: A Fairy Tale'
 url: http://www.gutenberg.org/ebooks/5590
